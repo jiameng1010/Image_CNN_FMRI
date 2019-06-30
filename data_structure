@@ -1,0 +1,152 @@
+   |-sceneViewingYork
+   |---BetaTimeSeriesToMengSean
+   |-----allpicsBalanceLum
+   |-------allpicsBalanceLum
+   |---------1_1_1_closet_13_scene.jpg
+   |---------*********************.jpg
+   |---------*********************.jpg
+   |-----s01
+   |-------beta_0001.nii
+   |-------beta_0002.nii
+   |-------.........
+   |-------beta_0632.nii   [(72+6)*num_runs + num_runs]
+   |-------mask.nii
+   |-------ResMS.nii
+   |-------RPV.nii
+   |-------SPM.mat
+   |-----s03
+   |-----s04
+   |-----s06
+   |-----s07
+   |-----s09
+   |-----s11  
+   |-----s12
+   |-----s13
+   |-----s14
+   |-----s15
+   |-----s17
+   |-----s19
+   |-----s20
+   |-----s22
+   |-----s24
+   |-----s25
+   |-----s26
+   |-----s27
+   |-----s28
+   |-----s29
+   |-----s30
+   |-----s31
+   |-----s32
+   |-----s33
+   |-----s34
+   |-----s35
+   |-----s36
+   |-----s39
+   |-----s41
+   |-----s42
+   |-----s43
+   |-----s44
+   |-----s46
+   |-----s47
+   |-----s48
+   |---HippRois
+   |-----01
+   |-------01_l_hipp_fs_native.nii
+   |-------01_r_hipp_fs_native.nii
+   |-------bi_l_hipp_fs_native.nii
+   |-------bi-l_hipp_fs_native.nii
+   |-------bi_r_hipp_fs_native.nii
+   |-------bi-r_hipp_fs_native.nii
+   |-------l_hipp_fs_native.nii
+   |-------l_hipp_fs_native.nii.gz
+   |-------L-HPC-1.5.nii
+   |-------L-HPC-1.nii
+   |-------L-HPC-2.nii
+   |-------L-HPC.nii  **********************
+   |-------r_hipp_fs_native.nii
+   |-------r_hipp_fs_native.nii.gz
+   |-------R-HPC-1.5.nii
+   |-------R-HPC-1.nii
+   |-------R-HPC-2.nii
+   |-------R-HPC.nii  **********************
+   |-------small-R-HPC15.nii
+   |-------small-R-HPC.nii
+   |-------wbi_l_hipp_fs_native.nii
+   |-------wbi_r_hipp_fs_native.nii
+   |-------w_l_hipp_fs_native.nii
+   |-------W_r_hipp_fs_native.nii
+   |-----03
+   |-----04
+   |-----06
+   |-----07
+   |-----09 //no run6, and slot for 6 is actually run7's images, and so on
+   |-----11
+   |-----12
+   |-----13
+   |-----14
+   |-----15
+   |-----17
+   |-----19
+   |-----20
+   |-----22
+   |-----24
+   |-----25
+   |-----26
+   |-----27
+   |-----28
+   |-----29
+   |-----30
+   |-----31
+   |-----32
+   |-----33
+   |-----34
+   |-----35
+   |-----36
+   |-----39
+   |-----41
+   |-----42
+   |-----43
+   |-----44
+   |-----46
+   |-----47
+   |-----48
+
+
+   |---precessedAndChecked
+   |-----Fixation Reports-20180730T201206Z-001
+   |-------Fixation Reports
+   |---------1|01f.xls(xlsx)
+             |  |
+   |---------8|48f.xls(xlsx)
+   |-----Retrieval
+   |-------Fixation Reports
+   |-----------01f.xlsx
+                |
+   |-----------48f.xlsx
+   |-------Full Reports
+   |-----------01full.xlsx
+                |
+   |-----------48full.xlsx
+   |-------IP Trial Reports
+   |-----------01ip.xlsx
+                |
+   |-----------48ip.xlsx
+   |-------Saccade Reports
+   |-----------01s.xlsx
+                |
+   |-----------48s.xlsx
+   |-----Saccade Reports
+   |-------1|01s.xls(xlsx)
+           |  |
+   |-------8|48s.xls(xlsx)
+   |-----Trial reports with start and end and fixation-saccade info
+   |-------1|01ip.xls(xlsx)
+           |  |
+   |-------8|48ip.xls(xlsx)
+
+
+
+
+
+
+
