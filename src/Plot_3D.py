@@ -2,6 +2,7 @@ import numpy as np
 import skimage
 from mayavi import mlab
 import nibabel as nib
+import scipy
 
 
 def apply_affine(verts, affine):
@@ -58,7 +59,9 @@ def plot_seg(filename1, filename2, filename3, color1, color2, level1=0.1, level2
     f2 = nib.load(filename2)
     f3 = nib.load(filename3)
     ROI_L = f1.get_fdata()
+    ROI_L = scipy.ndimage.filters.gaussian_filter(ROI_L, sigma=1)
     ROI_R = f2.get_fdata()
+    ROI_R = scipy.ndimage.filters.gaussian_filter(ROI_R, sigma=1)
     mask_matrix = f3.get_fdata()
     verts1, faces1, normals1, values1 = skimage.measure.marching_cubes_lewiner(ROI_L, level=level1)
     verts2, faces2, normals2, values2 = skimage.measure.marching_cubes_lewiner(ROI_R, level=level2)

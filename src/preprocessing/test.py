@@ -45,3 +45,4 @@ def there_is_out(filename1, filename2, filename3):
         return np.sum(1*flagL==0)/flagL.shape[0], np.sum(1*flagR==0)/flagR.shape[0]
     else:
         return 0, 0
+

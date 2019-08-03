@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="Always" serverName="mjia@172.24.4.65:22">
+  <component name="PublishConfigData" autoUpload="Always" serverName="mjia@172.24.4.65:22 (1)">
     <serverData>
       <paths name="mjia@172.24.4.65:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_616" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="mjia@172.24.4.65:22 (1)">
         <serverdata>
           <mappings>
             <mapping deploy="/tmp/pycharm_project_616" local="$PROJECT_DIR$" />
